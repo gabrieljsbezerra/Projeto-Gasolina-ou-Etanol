@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gasolina ou Álcool</title>
+    <link rel="stylesheet" href="style_gasoualc.css">
+</head>
+<body>
+    <header><h1>Gasolina ou Etanol(Álcool)?</h1></header>
+    <section>
+        <div>
+            <p>Insira o preço da gasolina por litro:
+                <input type="number" name="val_gas" id="val_gas">
+            </p>
+            <p>Insita o preço do Etanol(Álcool) por litro:
+                <input type="number" name="val_etn" id="val_etn">
+            </p>
+            <p>Insira como deve ser calculado:
+                <input type="radio" name="radopc" id="radauto" checked>
+                <label for="auto">Padrão</label>
+                <input type="radio" name="radopc" id="radpersonalizado">
+                <label for="personalizado">Personalizado</label>
+            </p>
+            <p>
+                <input type="button" value="Calcular" onclick="calcular()">
+            </p>
+        </div>
+        <div id="res">Preencha os dados acima para ver o resultado!</div>
+</section>
+<footer>
+    <p>&copy; Criado por - Gabriel João da Silva Bezerra</p>
+</footer>
+<script src="script_gasoualc.js"></script>
+</body>
+</html>
