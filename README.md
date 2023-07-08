@@ -1,4 +1,4 @@
-# Introdução ao Programa de Comparação entre Gasolina e Etanol
+# Programa de Comparação entre Gasolina e Etanol
 
 Apresentamos o programa de comparação entre gasolina e etanol, uma ferramenta projetada para ajudar os usuários a tomar decisões informadas sobre qual combustível utilizar em seus veículos. Com base nas informações fornecidas pelo usuário, o programa realiza cálculos precisos para determinar qual opção é mais vantajosa em termos de custo-benefício.
 
