@@ -4,6 +4,12 @@ Apresentamos o programa de comparação entre gasolina e etanol, uma ferramenta 
 
 A escolha entre gasolina e etanol pode ser um desafio para os motoristas, pois diversos fatores influenciam a decisão, como o preço atual dos combustíveis e o consumo específico do veículo. É essencial considerar esses elementos para otimizar os gastos com combustível e reduzir os custos de transporte.
 
+Desenvolvido usando:
+- HTML 5
+- CSS 3
+- JavaScript
+- VSCode
+
 # Funcionamento do Programa
 
 O programa é intuitivo e fácil de usar. Ao abri-lo, você será solicitado a inserir algumas informações cruciais para a análise. Os principais dados necessários incluem o preço da gasolina e do etanol no momento, além do consumo médio do veículo em litros por quilômetro.
